@@ -8,3 +8,6 @@
 On running `Stopwatch_gui.py`.
 
 [![stopwatch-gui1.png](https://i.postimg.cc/2yYGVSY0/stopwatch-gui1.png)](https://postimg.cc/1nWwdPfF)
+
+
+[![Capture.png](https://i.postimg.cc/76gbwzLD/Capture.png)](https://postimg.cc/S2xmGJ8t)
